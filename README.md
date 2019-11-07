@@ -9,4 +9,6 @@ chmod +x Griggorii_conky_fix_MX-CoreBlue.sh
 
 Run Griggorii_conky_fix_MX-CoreBlue.sh
 
+Example conky install https://www.youtube.com/watch?v=xe3K6CfEo60
+
 Griggorii@gmail.com
